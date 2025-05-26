@@ -1,0 +1,4 @@
+11. VERIFICA Y AJUSTA
+•	Revisa tu correo todos los días a las 8:00am Perú.
+•	Si falla, revisa los logs en PythonAnywhere (Tasks → 📄).
+•	Puedes modificar tu HTML, agregar más funcionalidades o agregar varios destinatarios en email_utils.py.
