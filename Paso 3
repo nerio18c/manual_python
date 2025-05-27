@@ -1,9 +1,0 @@
-3. ESTRUCTURA DEL PROYECTO
-Haz una carpeta principal llamada notificador_cristal y dentro, crea:
-notificador_cristal/
-├── src/
-│   ├── main.py
-│   ├── db_utils.py
-│   ├── futbol_api.py
-│   └── email_utils.py
-└── requirements.txt
